@@ -1,0 +1,28 @@
+[
+{
+  "orderNumber": 1,
+  "name": "Australian Grand Prix",
+  "trackName": "Melbourne",
+  "shortDate": "23 - 25 Mar",
+  "timezone": "America/Montreal",
+  
+  "practice1StartDate": "2018-03-23 12:00:00",
+  "practice1EndDate": "2018-03-23 13:30:00",
+  "practice2StartDate": "2018-03-23 16:00:00",
+  "practice2EndDate": "2018-03-23 17:30:00",
+  "practice3StartDate": "2018-03-24 14:00:00",
+  "practice3EndDate": "2018-03-24 15:00:00",
+  
+  "qualifyingStartDate": "2018-03-24 17:00:00",
+  "qualifyingEndDate": "2018-03-24 18:00:00",
+  "raceStartDate": "2018-03-25 16:00:00",
+  "raceEndDate": "2018-03-25 18:00:00"
+},
+{
+  "orderNumber": 2,
+  "name": "Bahrain Grand Prix",
+  "trackName": "Sakhir",
+  "shortDate": "06 - 08 Apr",
+  "timezone": "Asia/Bahrain"
+}
+]
