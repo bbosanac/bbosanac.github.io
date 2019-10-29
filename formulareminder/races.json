@@ -1,28 +1,59 @@
 [
-{
-  "orderNumber": 1,
-  "name": "Australian Grand Prix",
-  "trackName": "Melbourne",
-  "shortDate": "23 - 25 Mar",
-  "timezone": "America/Montreal",
-  
-  "practice1StartDate": "2018-03-23 12:00:00",
-  "practice1EndDate": "2018-03-23 13:30:00",
-  "practice2StartDate": "2018-03-23 16:00:00",
-  "practice2EndDate": "2018-03-23 17:30:00",
-  "practice3StartDate": "2018-03-24 14:00:00",
-  "practice3EndDate": "2018-03-24 15:00:00",
-  
-  "qualifyingStartDate": "2018-03-24 17:00:00",
-  "qualifyingEndDate": "2018-03-24 18:00:00",
-  "raceStartDate": "2018-03-25 16:00:00",
-  "raceEndDate": "2018-03-25 18:00:00"
-},
-{
-  "orderNumber": 2,
-  "name": "Bahrain Grand Prix",
-  "trackName": "Sakhir",
-  "shortDate": "06 - 08 Apr",
-  "timezone": "Asia/Bahrain"
-}
+  {
+    "orderNumber": 1,
+    "name": "Australian Grand Prix",
+    "trackName": "Melbourne",
+    "shortDate": "15 - 17 Mar",
+    "timezone": "Australia/Melbourne",
+
+    "practice1StartDate": "2019-03-15 12:00:00",
+    "practice1EndDate": "2019-03-15 13:30:00",
+    "practice2StartDate": "2019-03-15 16:00:00",
+    "practice2EndDate": "2019-03-15 17:30:00",
+    "practice3StartDate": "2019-03-16 14:00:00",
+    "practice3EndDate": "2019-03-16 15:00:00",
+
+    "qualifyingStartDate": "2019-03-16 17:00:00",
+    "qualifyingEndDate": "2019-03-16 18:00:00",
+    "raceStartDate": "2019-03-17 16:10:00",
+    "raceEndDate": "2019-03-17 18:10:00"
+  },
+  {
+    "orderNumber": 2,
+    "name": "Bahrain Grand Prix",
+    "trackName": "Sakhir",
+    "shortDate": "29 - 31 Mar",
+    "timezone": "Asia/Bahrain"
+
+    "practice1StartDate": "2019-03-29 12:00:00",
+    "practice1EndDate": "2019-03-29 13:30:00",
+    "practice2StartDate": "2019-03-29 16:00:00",
+    "practice2EndDate": "2019-03-29 17:30:00",
+    "practice3StartDate": "2019-03-30 13:00:00",
+    "practice3EndDate": "2019-03-30 14:00:00",
+
+    "qualifyingStartDate": "2019-03-30 16:00:00",
+    "qualifyingEndDate": "2019-03-30 17:00:00",
+    "raceStartDate": "2019-03-31 17:10:00",
+    "raceEndDate": "2019-03-31 19:10:00"
+  },
+  {
+    "orderNumber": 3,
+    "name": "Chinese Grand Prix",
+    "trackName": "Shanghai",
+    "shortDate": "12 - 14 Apr",
+    "timezone": "Asia/Shanghai"
+
+    "practice1StartDate": "2019-04-12 10:00:00",
+    "practice1EndDate": "2019-04-12 11:30:00",
+    "practice2StartDate": "2019-04-12 14:00:00",
+    "practice2EndDate": "2019-04-12 15:30:00",
+    "practice3StartDate": "2019-04-13 11:00:00",
+    "practice3EndDate": "2019-04-13 12:00:00",
+
+    "qualifyingStartDate": "2019-04-13 14:00:00",
+    "qualifyingEndDate": "2019-04-13 15:00:00",
+    "raceStartDate": "2019-04-14 14:10:00",
+    "raceEndDate": "2019-04-14 16:10:00"
+  }
 ]
