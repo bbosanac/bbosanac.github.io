@@ -57,6 +57,63 @@
     "raceEndDate": "2019-04-14 16:10:00"
   },
   {
+    "orderNumber": 4,
+    "name": "Azerbaijan Grand Prix",
+    "trackName": "Baku City Circuit",
+    "shortDate": "26 - 28 Apr",
+    "timezone": "Asia/Baku",
+
+    "practice1StartDate": "2019-04-26 13:00:00",
+    "practice1EndDate": "2019-04-26 14:30:00",
+    "practice2StartDate": "2019-26-12 17:00:00",
+    "practice2EndDate": "2019-04-26 18:30:00",
+    "practice3StartDate": "2019-04-27 14:00:00",
+    "practice3EndDate": "2019-04-27 15:00:00",
+
+    "qualifyingStartDate": "2019-04-27 17:00:00",
+    "qualifyingEndDate": "2019-04-27 18:00:00",
+    "raceStartDate": "2019-04-28 16:10:00",
+    "raceEndDate": "2019-04-28 18:10:00"
+  },
+  {
+    "orderNumber": 5,
+    "name": "Grand Premio de España",
+    "trackName": "Circuit de Barcelona-Catalunya",
+    "shortDate": "10 - 12 May",
+    "timezone": "Europe/Madrid",
+
+    "practice1StartDate": "2019-05-10 11:00:00",
+    "practice1EndDate": "2019-05-10 12:30:00",
+    "practice2StartDate": "2019-05-10 15:00:00",
+    "practice2EndDate": "2019-05-10 16:30:00",
+    "practice3StartDate": "2019-05-11 12:00:00",
+    "practice3EndDate": "2019-05-11 13:00:00",
+
+    "qualifyingStartDate": "2019-05-11 15:00:00",
+    "qualifyingEndDate": "2019-05-11 16:00:00",
+    "raceStartDate": "2019-05-12 15:10:00",
+    "raceEndDate": "2019-05-12 17:10:00"
+  },
+  {
+    "orderNumber": 6,
+    "name": "Grand Prix de Monaco",
+    "trackName": "Circuit de Monaco",
+    "shortDate": "23 - 26 May",
+    "timezone": "Europe/Monaco",
+
+    "practice1StartDate": "2019-05-23 11:00:00",
+    "practice1EndDate": "2019-05-23 12:30:00",
+    "practice2StartDate": "2019-05-23 15:00:00",
+    "practice2EndDate": "2019-05-23 16:30:00",
+    "practice3StartDate": "2019-05-25 12:00:00",
+    "practice3EndDate": "2019-05-25 13:00:00",
+
+    "qualifyingStartDate": "2019-05-25 15:00:00",
+    "qualifyingEndDate": "2019-05-25 16:00:00",
+    "raceStartDate": "2019-05-26 15:10:00",
+    "raceEndDate": "2019-05-26 17:10:00"
+  },
+  {
     "orderNumber": 19,
     "name": "United States Grand Prix",
     "trackName": "Austin",
